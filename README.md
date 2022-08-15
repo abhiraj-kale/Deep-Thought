@@ -1,4 +1,8 @@
 
+# API Documentation for events
+
+
+
 ## API Reference
 
 #### Base url
@@ -131,3 +135,24 @@ Status 200
 | Parameter   | Description                       |
 |:------- | :-------------------------------- |
 | `id`      | **Required**. Id of event to delete |
+
+
+
+## Authors
+
+- [@abhiraj-kale](https://github.com/abhiraj-kale)
+
+
+
+
+## Contributing
+
+Contributions are always welcome!
+
+Please adhere to this project's `code of conduct`.
+
+
+## Acknowledgements
+
+ - Deep Thoughts API reference
+
